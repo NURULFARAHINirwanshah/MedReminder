@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.psm.medreminder">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/MyMaterialTheme">
+
+
+
+        <activity android:name=".Main2Activity">
+
+        </activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SigninActivity" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".Profile" />
+        <activity android:name=".ProfileEdit" />
+        <activity android:name=".MedicineInfo" />
+        <activity android:name=".MedicineAdd" />
+        <activity android:name=".calendar" />
+        <activity android:name=".MainActivity" /> <!-- Will not be called unless the application explicitly enables it -->
+        <activity android:name=".QRscanner" />
+        <activity
+            android:name=".activity.IconTabsActivity"
+            android:label="@string/title_activity_icon_tabs" />
+        <receiver android:name=".alarm.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true"/>
+    </application>
+
+</manifest>
