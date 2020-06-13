@@ -11,8 +11,10 @@ MedReminder is an android based applications that helps users to take their medi
 *	View taken medicines report
 
 ## System Architecture
-<img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/architecture" align="center" width="50%">
+<img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/architecture.png" align="center" width="50%">
+
 ## Screenshots
+
 ![s1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s1.jpg)
 
 ![s2](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s2.jpg)
