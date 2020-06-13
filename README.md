@@ -11,25 +11,24 @@ MedReminder is an android based applications that helps users to take their medi
 *	View taken medicines report
 
 ## System Architecture
-![ss1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/architecture.png)
-
+<img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/architecture" align="center" width="50%">
 ## Screenshots
-![s1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s1.png)
+![s1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s1.jpg)
 
-![s2](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s2.png)
+![s2](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s2.jpg)
 
-![s3](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s3.png)
+![s3](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s3.jpg)
 
-![s4](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s4.png)
+![s4](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s4.jpg)
 
-![s5](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s5.png)
+![s5](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s5.jpg)
 
-![s6](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s6.png)
+![s6](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s6.jpg)
 
-![s7](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s7.png)
+![s7](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s7.jpg)
 
-![s8](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s8.png)
+![s8](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s8.jpg)
 
-![s9](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s9.png)
+![s9](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s9.jpg)
 
-![s10](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s10.png)
+![s10](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s10.jpg)
