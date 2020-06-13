@@ -11,8 +11,25 @@ MedReminder is an android based applications that helps users to take their medi
 *	View taken medicines report
 
 ## System Architecture
-![ss1](https://github.com/NURULFARAHINirwanshah/Network-Monitoring-Dashboard-Using-Grafana-Open-Source/blob/master/screenshots/architecture.png)
+![ss1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/architecture.png)
 
 ## Screenshots
-![s1](https://github.com/NURULFARAHINirwanshah/Network-Monitoring-Dashboard-Using-Grafana-Open-Source/blob/master/screenshots/s1.png)
+![s1](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s1.png)
 
+![s2](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s2.png)
+
+![s3](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s3.png)
+
+![s4](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s4.png)
+
+![s5](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s5.png)
+
+![s6](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s6.png)
+
+![s7](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s7.png)
+
+![s8](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s8.png)
+
+![s9](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s9.png)
+
+![s10](https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s10.png)
