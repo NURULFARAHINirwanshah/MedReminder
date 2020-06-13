@@ -21,7 +21,7 @@ MedReminder is an android based applications that helps users to take their medi
 ### Medicine records
 <img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s3.jpg" width="30%"> <img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s4.jpg" width="30%">
 
-### New medicine records
+### New medicine record
 <img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s5.jpg" width="30%"> <img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s6.jpg" width="30%"> <img src="https://github.com/NURULFARAHINirwanshah/MedReminder/blob/master/screenshots/s7.jpg" width="30%">
 
 ### Intake status & history
